@@ -121,6 +121,10 @@ width: 50%;
     border-top-left-radius: 10px ;
     border-bottom-left-radius: 10px;
 }
+.ic>i{
+     font-size: 30px;
+    color: black;
+}
 
 .ext{
     display: flex;
